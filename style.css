@@ -14,8 +14,6 @@ body{
     font-family: 'Nerko One';
 }
 
-#webpage-container{
-}
 /* header */
 
 h1{
@@ -58,7 +56,6 @@ main{
 .solillo{
     height: 200px;
     width: 100%;
-    display: inline-block;
     display: inline-block;
     background-size: contain;
     background-repeat: no-repeat;
